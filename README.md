@@ -1,4 +1,4 @@
 
 # number_guessing_name
 
-##Have fun!
+## Keep guessing, Have fun!
